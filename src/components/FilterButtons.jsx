@@ -1,5 +1,4 @@
-// components/FilterButtons.jsx
-import '../styles/Gallery.css';
+ import '../styles/Gallery.css';
 
 const FilterButtons = ({ categories, filter, setFilter }) => {
   return (

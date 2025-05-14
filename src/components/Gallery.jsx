@@ -1,5 +1,4 @@
-// components/Gallery.jsx
-import { useState } from 'react';
+ import { useState } from 'react';
 import useImages from '../hooks/useImages';
 import ImageCard from './ImageCard';
 import FilterButtons from './FilterButtons';
@@ -16,7 +15,7 @@ const Gallery = () => {
 
   return (
     <div className="gallery-container">
-      <h1>Image Gallery</h1>
+      <h1>React Image Gallery</h1>
       <FilterButtons 
         categories={categories} 
         filter={filter} 
