@@ -19,6 +19,7 @@ A responsive and filterable image gallery built using **React**. Easily browse t
 - **JavaScript (ES6+)**
 
 ## 📂 Folder Structure
+```
 REACT-IMAGE-GALLERY
 ├── node_modules
 ├── public
@@ -45,7 +46,7 @@ REACT-IMAGE-GALLERY
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 ## 📦 Installation
 
 Clone the repository and install dependencies:
