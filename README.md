@@ -18,6 +18,33 @@ A responsive and filterable image gallery built using **React**. Easily browse t
 - **CSS Modules / TailwindCSS** (customizable)
 - **JavaScript (ES6+)**
 
+## 📂 Folder Structure
+REACT-IMAGE-GALLERY
+├── node_modules
+├── public
+│ └── logo.svg
+├── src
+│ ├── components
+│ │ ├── FilterButtons.jsx
+│ │ ├── Gallery.jsx
+│ │ ├── ImageCard.jsx
+│ │ └── Lightbox.jsx
+│ ├── hooks
+│ │ └── useImages.js
+│ ├── styles
+│ │ ├── Gallery.css
+│ │ └── Lightbox.css
+│ ├── App.css
+│ ├── App.js
+│ ├── App.test.js
+│ ├── index.css
+│ ├── index.js
+│ └── reportWebVitals.js
+│ └── setupTests.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
 
 ## 📦 Installation
 
